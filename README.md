@@ -9,4 +9,11 @@ Linux için
 #Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için lütfen önce
 neyi değiştirmek isdtediğiniz tartışmak için bir konu açın
-#license
+
+
+#Contributing
+Pull requestler kabul edilir  Büyük değişiklikler için Lütfen önce neyi değiştirmek 
+istediğinizi tartışmak için bir konu açınız.
+
+#License
+MIT
